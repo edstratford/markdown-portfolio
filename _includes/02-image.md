@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Odd image of tablet](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spurlock.illinois.edu%2Fcollections%2Fnotable-collections%2Fprofiles%2Fmesopotamian-tablet.html&psig=AOvVaw1-EjNbOR3vKnwLw06dUGyy&ust=1612883972034000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDH0ZbL2u4CFQAAAAAdAAAAABAD)
